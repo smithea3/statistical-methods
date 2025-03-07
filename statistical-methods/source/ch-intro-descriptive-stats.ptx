@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-intro-descriptive-stats" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Data and Sampling</title>
+
+  <introduction>
+    <p> Data and their corresponding statistics are everywhere. Statistics are displayed in the news daily, such as presidential approval ratings, average life expectancy, and housing prices. These headline-making statistics underscore the power that statistics and the underlying data that generated those statistics play in our everyday lives. In this section, we will look at the various types and levels of data. We will also explore methods for collecting samples of data from a population. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-data-and-sampling.ptx" />
+
+</chapter>
