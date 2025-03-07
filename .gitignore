@@ -21,7 +21,7 @@ node_modules
 
 # don't track error logs
 .error_schema.log
-logs
+*.log
 
 # don't track OS related files (windows/macos/linux)
 .DS_Store
