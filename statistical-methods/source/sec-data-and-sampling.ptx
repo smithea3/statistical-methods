@@ -8,6 +8,11 @@
     </p>
   </introduction>
 
-  <p> Text of section. </p>
+  <subsection xml:id="subsec-types-of-data">
+    <title>Types of Data</title>
+    <p>
+      
+    </p>
+  </subsection>
 
 </section>
