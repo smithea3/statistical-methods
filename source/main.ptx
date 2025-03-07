@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+
+  <docinfo>
+    <macros>
+      \newcommand{\R}{\mathbb R}
+      \newcommand{\Z}{\mathbb Z}
+    </macros>
+    <latex-image-preamble>
+      \usepackage{tikz}
+      \usetikzlibrary{positioning,shapes,fit,arrows}
+      \definecolor{myblue}{RGB}{56,94,141}
+    </latex-image-preamble>
+  </docinfo>
+
+  <book xml:id="my-great-book">
+    <title>Calculus</title>
+    <subtitle>For People in a Hurry</subtitle>
+
+    <xi:include href="frontmatter.ptx" />
+
+    <xi:include href="ch_basics-of-integration.ptx" />
+
+    <xi:include href="ch_differential-equations.ptx" />
+
+    <xi:include href="ch_sequences.ptx" />
+
+    <xi:include href="ch_series.ptx" />
+
+    <xi:include href="ch_power-series.ptx" />
+
+    <xi:include href="ch_calculus-of-polar-curves.ptx" />
+
+    <xi:include href="ch_review-exercises.ptx" />
+
+  </book>
+</pretext>
