@@ -14,25 +14,13 @@
     </latex-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>Calculus</title>
-    <subtitle>For People in a Hurry</subtitle>
+  <book xml:id="statistical-methods">
+    <title>Statistical Methods</title>
+    <subtitle>A First Course in Statistics</subtitle>
 
     <xi:include href="frontmatter.ptx" />
 
-    <xi:include href="ch_basics-of-integration.ptx" />
-
-    <xi:include href="ch_differential-equations.ptx" />
-
-    <xi:include href="ch_sequences.ptx" />
-
-    <xi:include href="ch_series.ptx" />
-
-    <xi:include href="ch_power-series.ptx" />
-
-    <xi:include href="ch_calculus-of-polar-curves.ptx" />
-
-    <xi:include href="ch_review-exercises.ptx" />
+    <xi:include href="ch_intro_descriptive_stats.ptx" />
 
   </book>
 </pretext>
